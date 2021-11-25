@@ -1,6 +1,6 @@
 # AndroidMVP
 一个整合了大量主流开源项目的 Android MVP 快速集成框架，整合Retrofit+RxJava网络模块的快速开发框架。
-
+https://www.jianshu.com/p/824e59f34c59
 ## 框架特点
 
 - **MVP结构**
